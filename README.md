@@ -81,8 +81,8 @@ We acknowledge the **ScaleCUA** project for providing the evaluation pipeline an
       title={A History-Aware Visually Grounded Critic for Computer Use Agents},
       author={Jaewoo Lee and Zaid Khan and Archiki Prasad and Justin Chih-Yao Chen and Supriyo Chakraborty and Kartik Balasubramaniam and Sambit Sahu and Elias Stengel-Eskin and Hyunji Lee and Mohit Bansal},
       year={2026},
-      journal={arXiv preprint arXiv:tbd},
-      url={https://arxiv.org/abs/tbd},
+      journal={arXiv preprint arXiv:2606.11078},
+      url={https://arxiv.org/abs/2606.11078},
 }
 ```
 
