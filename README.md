@@ -1,6 +1,6 @@
-# [A History-Aware Visually Grounded Critic for Computer Use Agents](TBD)
+# [A History-Aware Visually Grounded Critic for Computer Use Agents](https://arxiv.org/abs/2606.11078)
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](TBD)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2606.11078)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [Jaewoo Lee](https://g-jwlee.github.io/) | [Zaid Khan](https://zaidkhan.me/) | [Archiki Prasad](https://archiki.github.io/) | [Justin Chih-Yao Chen](https://dinobby.github.io/)  | [Supriyo Chakraborty](https://scholar.google.com/citations?hl=en&user=UIM7nGwAAAAJ) | [Kartik Balasubramaniam](https://scholar.google.com/citations?hl=en&user=Eq7sJT0AAAAJ) | [Sambit Sahu](https://scholar.google.com/citations?hl=en&user=lhCvmjkAAAAJ) | [Elias Stengel-Eskin](https://esteng.github.io/) | [Hyunji Lee](https://amy-hyunji.github.io/) | [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
